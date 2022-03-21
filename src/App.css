@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.tHead {
+  display: flex;
+
+}
+
+.tBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.wrapper {
+  border: solid grey 1px;
+  padding: 15px;
+}
+
+.App-header {
+  background-color: #282c34;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+table {
+  margin: auto;
+}
